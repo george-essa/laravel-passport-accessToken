@@ -12,5 +12,7 @@ simple laravel 6.0 project integrated with laravel passport for using apis regis
   - open your terminal within project path and write this command
   - composer install
   - wait untill done
-  - serve the server and use apis with any third party (EX. Postman)
+  - php artisan migrate
+  - php artisan serve
+  - play with apis using any third party (EX. Postman)
     
